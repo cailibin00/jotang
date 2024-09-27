@@ -71,8 +71,10 @@ kimi刷刷刷的出现了教程，豪德，虽然什么都看不懂，但是我�
 
 >先后输入指令  
 
-`sudo apt update`   
-`sudo apt upgrade `  
+`sudo apt update`    
+`sudo apt upgrade `   
+<img src="/12.png" width="50%">  
+<img src="/13.png" width="50%">  
 ### 睡觉  
 1. 托拖鞋  
 2. 盖被子  
